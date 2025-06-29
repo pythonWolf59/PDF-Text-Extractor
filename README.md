@@ -1,13 +1,7 @@
-Here’s a polished and modern `README.md` file for your **PDF Label-Value Extractor** Streamlit app:
-
----
-
 ````markdown
 # 📄 PDF Label-Value Extractor
 
 A powerful Streamlit web app to extract values from custom-labeled text blocks across multiple PDF files — without relying on coordinates. Just specify a label and the direction (e.g., right, below), and this app does the rest!
-
-![screenshot](https://placehold.co/1000x300?text=PDF+Label+Value+Extractor+App)
 
 ---
 
